@@ -3,3 +3,4 @@ description: Tips and guides for managing your Google reviews
 baseurl: "/review-reply-blog"
 url: "https://bristobiju0-spec.github.io"
 theme: minima
+permalink: /:title
